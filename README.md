@@ -6,6 +6,7 @@
 
 ## Open Source Fonts
 - [Plus Jakarta Sans](https://tokotype.github.io/plusjakarta-sans/)
+- [Work Sans](https://fonts.google.com/specimen/Work+Sans)
 
 ## Font Creation Software
 - [Glyphs](https://glyphsapp.com/)
