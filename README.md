@@ -5,6 +5,7 @@
 - [Arizona Sans](https://abcdinamo.com/typefaces/arizona)
 - [Circular Pro book](https://lineto.com/typefaces/circular?font=lohztTvAIVk#book) as used in ADPList (circa 2023)
 - [Sharp Grotesk](https://sharptype.co/typefaces/sharp-grotesk-global/sharp-grotesk)
+- [FK Grotesk](https://fonts.floriankarsten.com/fk-grotesk) as used in Perplexity.ai (circa 2023)
 
 ## Free for commercial
 - [Plus Jakarta Sans](https://tokotype.github.io/plusjakarta-sans/)
